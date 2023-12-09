@@ -63,6 +63,13 @@ Thanks for dropping by, and let's build something awesome together! 🚀</div>
 <br/>  
 
 
+<h1>My Latest projects</h1> 
+
+- [Best Buddy](https://github.com/Mabu-1/Best-Buddy)
+- [Event Management](https://github.com/Mabu-1/Event-Management)
+- [ResiCraftt](https://github.com/Mabu-1/ResiCraft)
+
+
 
 
 
